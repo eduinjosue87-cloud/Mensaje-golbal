@@ -1,0 +1,1 @@
+{\n  "name": "mensaje-golbal",\n  "version": "1.0.0",\n  "description": "A project for Mensaje-golbal",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "eduinjosue87-cloud",\n  "license": "ISC"\n}
